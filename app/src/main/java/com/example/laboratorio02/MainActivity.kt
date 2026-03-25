@@ -48,7 +48,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//.
 @Preview(showBackground = true)
 @Composable
 fun App(modifier: Modifier = Modifier) {
